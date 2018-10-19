@@ -1,0 +1,2 @@
+the communication folder should be placed in the libraries directory in the arduino set up folder
+(C:\Program Files (x86)\Arduino\libraries)
